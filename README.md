@@ -1,10 +1,5 @@
-![Cover](./.github/cover.png)
 
-# NLW Expert (React)
-
-Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat utilizando React, TypeScript, Tailwind e a SpeechRecognition API.
-
-## Executando
+Essa aplicação foi desenvolvida utilizando React, TypeScript, Tailwind e a SpeechRecognition API.
 
 Após clonar o repositório, acesse a pasta do projeto e execute os comandos abaixo:
 
